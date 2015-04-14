@@ -1,12 +1,12 @@
 {
-  "name": "thrift-hack”,
-  "description": “hack of Apache Thrift RPC“,
+  "name": "thrift-hack",
+  "description": "hack of Apache Thrift RPC",
   "homepage": "http://thrift.apache.org/",
   "repository": {
     "type": "git",
-    "url": "https://git-wip-us.apache.org/repos/asf/thrift.git"
+    "url": "https://github.com/kukukukikii/thrift-hack.git"
   },
-  "version": "0.9.2",
+  "version": "0.9.24",
   "author": {
     "name": "Apache Thrift Developers",
     "email": "dev@thrift.apache.org",
@@ -46,9 +46,9 @@
   },
   "maintainers": [
     {
-      "name": “chenge”,
-      "email": “undeadman@aliyun.com”
+      "name": "chenge",
+      "email": "undeadman@aliyun.com"
     }
   ],
-  "readme": "ERROR: No README data found!"
+  "readme": "A hack version of Apache Thrift RPC, to solve Java double type's writer & reader bug"
 }
