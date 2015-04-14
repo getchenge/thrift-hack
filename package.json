@@ -6,7 +6,7 @@
     "type": "git",
     "url": "https://github.com/kukukukikii/thrift-hack.git"
   },
-  "version": "0.9.24",
+  "version": "0.9.25",
   "author": {
     "name": "Apache Thrift Developers",
     "email": "dev@thrift.apache.org",
@@ -50,5 +50,7 @@
       "email": "undeadman@aliyun.com"
     }
   ],
-  "readme": "A hack version of Apache Thrift RPC, to solve Java double type's writer & reader bug"
+  "readme": "##Thrift-hack\n  A hack version of Apache Thrift RPC.\n  ###features\n  * Fix bug: Java double type data writer & reader\n  * Fix bug: Java long type data writer & reader\n[Original official version of node-thrift](https://github.com/apache/thrift)"
+
+
 }
